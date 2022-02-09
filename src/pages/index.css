@@ -1,0 +1,10 @@
+.my_tag:hover{
+    text-shadow: 0px 0px 10px white;
+    transition: all ease 0.4s;
+}
+.taglist{
+    box-shadow: inset 0px 8px 10px -9px white;
+}
+*{
+    font-family: 'Source Serif 4', sans-serif !important;
+}
